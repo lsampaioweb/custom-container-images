@@ -1,4 +1,0 @@
-[submodule ".github"]
-	path = .github
-	url = https://github.com/lsampaioweb/ia-instructions.git
-	branch = main
